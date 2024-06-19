@@ -10,3 +10,8 @@
 - [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3/java)
 - [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true)
 - [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
+
+19.06
+- [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e)
+- [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true)
+- [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/)
