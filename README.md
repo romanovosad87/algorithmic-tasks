@@ -21,3 +21,8 @@
 - [Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020)
 - [SQL Basics: Simple EXISTS](https://www.codewars.com/kata/58113a64e10b53ec36000293)
 - [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)
+
+21.06
+- [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035/solutions/java)
+- [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true)
+- [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)
