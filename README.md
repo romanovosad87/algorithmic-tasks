@@ -26,3 +26,8 @@
 - [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035/solutions/java)
 - [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true)
 - [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)
+
+24.06
+- [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/java)
+- [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true)
+- [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/)
