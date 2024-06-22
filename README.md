@@ -31,3 +31,8 @@
 - [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/java)
 - [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true)
 - [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/)
+
+25.06
+- [List Filtering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd)
+- [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true)
+- [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
