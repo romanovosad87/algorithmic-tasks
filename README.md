@@ -36,3 +36,8 @@
 - [List Filtering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd)
 - [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true)
 - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+
+26.06
+- [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028)
+- [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem?isFullScreen=true)
+- [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)
