@@ -41,3 +41,8 @@
 - [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028)
 - [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem?isFullScreen=true)
 - [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)
+
+27.06
+- [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039)
+- [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem?isFullScreen=true)
+- [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
