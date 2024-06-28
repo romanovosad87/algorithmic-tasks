@@ -46,3 +46,8 @@
 - [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039)
 - [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem?isFullScreen=true)
 - [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
+
+28.06
+- [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/java)
+- [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem?isFullScreen=true)
+- [682. Baseball Game](https://leetcode.com/problems/baseball-game/description/)
