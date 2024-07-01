@@ -5,5 +5,5 @@ where CITY like 'A%'
    or CITY like 'O%'
    or CITY like 'E%'
    or CITY like 'I%'
-   or CITY like 'E%'  
+   or CITY like 'E%'
    or CITY like 'U%';
