@@ -51,3 +51,8 @@
 - [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/java)
 - [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem?isFullScreen=true)
 - [682. Baseball Game](https://leetcode.com/problems/baseball-game/description/)
+
+01.07
+- [Exes and Ohs](https://www.codewars.com/kata/55908aad6620c066bc00002a/train/java)
+- [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem?isFullScreen=true)
+- [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/)
