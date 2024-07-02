@@ -56,3 +56,7 @@
 - [Exes and Ohs](https://www.codewars.com/kata/55908aad6620c066bc00002a/train/java)
 - [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem?isFullScreen=true)
 - [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/)
+
+02.07
+- [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem?isFullScreen=true)
+- [231. Power of Two](https://leetcode.com/problems/power-of-two/description/)
