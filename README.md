@@ -60,3 +60,8 @@
 02.07
 - [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem?isFullScreen=true)
 - [231. Power of Two](https://leetcode.com/problems/power-of-two/description/)
+
+03.07
+- [Jaden Casing Strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6/train/java)
+- [SQL Basics - Monsters using CASE](https://www.codewars.com/kata/593ef0e98b90525e090000b9)
+- [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
