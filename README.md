@@ -65,3 +65,8 @@
 - [Jaden Casing Strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6/train/java)
 - [SQL Basics - Monsters using CASE](https://www.codewars.com/kata/593ef0e98b90525e090000b9)
 - [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
+
+04.07
+- [Shortest Word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/train/java)
+- [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem?isFullScreen=true)
+- [704. Binary Search](https://leetcode.com/problems/binary-search/description/)
