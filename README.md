@@ -70,3 +70,8 @@
 - [Shortest Word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/train/java)
 - [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem?isFullScreen=true)
 - [704. Binary Search](https://leetcode.com/problems/binary-search/description/)
+
+05.07
+- [Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038/train/java)
+- [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem?isFullScreen=true)
+- [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
