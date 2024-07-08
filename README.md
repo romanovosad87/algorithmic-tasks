@@ -75,3 +75,8 @@
 - [Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038/train/java)
 - [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem?isFullScreen=true)
 - [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
+
+08.07
+- [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
+- [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem?isFullScreen=true)
+- [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/)
