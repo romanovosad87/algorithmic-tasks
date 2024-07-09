@@ -80,3 +80,9 @@
 - [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
 - [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem?isFullScreen=true)
 - [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/)
+
+09.07
+- [Credit Card Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc/train/java)
+- [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem?isFullScreen=true)
+- [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+- []()
