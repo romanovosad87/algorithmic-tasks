@@ -85,3 +85,8 @@
 - [Credit Card Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc/train/java)
 - [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem?isFullScreen=true)
 - [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+
+10.07
+- [Beginner Series #3 Sum of Numbers](https://www.codewars.com/kata/55f2b110f61eb01779000053)
+- [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true)
+- [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)
