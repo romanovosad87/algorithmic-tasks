@@ -90,3 +90,8 @@
 - [Beginner Series #3 Sum of Numbers](https://www.codewars.com/kata/55f2b110f61eb01779000053)
 - [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true)
 - [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)
+
+11.07
+- [Thinking & Testing : True or False (Java)](https://www.codewars.com/kata/56d931ecc443d475d5000003)
+- [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true)
+- [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)
