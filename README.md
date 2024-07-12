@@ -95,3 +95,8 @@
 - [Thinking & Testing : True or False (Java)](https://www.codewars.com/kata/56d931ecc443d475d5000003)
 - [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true)
 - [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)
+
+12.07
+- [Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac)
+- [SQL Basics: Simple UNION ALL](https://www.codewars.com/kata/58112f8004adbbdb500004fe)
+- [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)
