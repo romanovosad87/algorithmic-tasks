@@ -100,3 +100,8 @@
 - [Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac)
 - [SQL Basics: Simple UNION ALL](https://www.codewars.com/kata/58112f8004adbbdb500004fe)
 - [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)
+
+15.07
+- [Find the next perfect square!](https://codewars.com/kata/56269eb78ad2e4ced1000013/train/java)
+- [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true)
+- [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)
