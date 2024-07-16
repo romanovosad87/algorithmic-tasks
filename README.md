@@ -105,3 +105,8 @@
 - [Find the next perfect square!](https://codewars.com/kata/56269eb78ad2e4ced1000013/train/java)
 - [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true)
 - [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)
+
+16.07
+- [Printer Errors](https://codewars.com/kata/56541980fa08ab47a0000040/train/java)
+- [SQL Basics: Simple table totaling](https://www.codewars.com/kata/5809575e166583acfa000083/solutions/sql)
+- [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)
