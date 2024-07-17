@@ -110,3 +110,8 @@
 - [Printer Errors](https://codewars.com/kata/56541980fa08ab47a0000040/train/java)
 - [SQL Basics: Simple table totaling](https://www.codewars.com/kata/5809575e166583acfa000083/solutions/sql)
 - [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)
+
+17.07
+- [Regex validate PIN code](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132/train/java)
+- [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true)
+- [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)
