@@ -120,4 +120,3 @@
 - [String ends with?](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/train/java)
 - [SQL Basics: Simple IN](https://www.codewars.com/kata/58113c03009b4fcc66000d29/train/sql)
 - [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
-- []()
