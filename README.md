@@ -120,3 +120,8 @@
 - [String ends with?](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/train/java)
 - [SQL Basics: Simple IN](https://www.codewars.com/kata/58113c03009b4fcc66000d29/train/sql)
 - [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
+
+19.07
+- [Binary Addition](https://www.codewars.com/kata/551f37452ff852b7bd000139)
+- [The PADS](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true)
+- [1863. Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/)
