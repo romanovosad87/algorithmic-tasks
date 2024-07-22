@@ -125,3 +125,8 @@
 - [Binary Addition](https://www.codewars.com/kata/551f37452ff852b7bd000139)
 - [The PADS](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true)
 - [1863. Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/)
+
+22.07
+- [Growth of a Population](https://www.codewars.com/kata/563b662a59afc2b5120000c6/train/java)
+- [Occupations](https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=true)
+- [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)
