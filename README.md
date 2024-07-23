@@ -130,3 +130,8 @@
 - [Growth of a Population](https://www.codewars.com/kata/563b662a59afc2b5120000c6/train/java)
 - [Occupations](https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=true)
 - [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)
+
+23.07
+- [Is this a triangle?](https://www.codewars.com/kata/56606694ec01347ce800001b/train/java)
+- [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=true)
+- [389. Find the Difference](https://leetcode.com/problems/find-the-difference/description/)
