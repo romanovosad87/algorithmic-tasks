@@ -135,3 +135,8 @@
 - [Is this a triangle?](https://www.codewars.com/kata/56606694ec01347ce800001b/train/java)
 - [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=true)
 - [389. Find the Difference](https://leetcode.com/problems/find-the-difference/description/)
+
+24.07
+- [Sum of odd numbers](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064/train/java)
+- [New Companies](https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true)
+- [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/description/)
