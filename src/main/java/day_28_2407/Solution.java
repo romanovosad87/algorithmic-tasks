@@ -11,20 +11,16 @@ public class Solution {
     }
 
     public boolean isAlienSorted(String[] words, String order) {
-        int[] charOrder = new int[26];
-        for (int i = 0; i < order.length(); i++) {
-            charOrder[order.charAt(i) - 'a'] = i;
-        }
 
         for (int i = 0; i < words.length - 1; i++) {
-            if (!isInOrder(words[i], words[i + 1], charOrder)) {
+            if (!isInOrder(words[i], words[i + 1], order)) {
                 return false;
             }
         }
         return true;
     }
 
-    private boolean isInOrder(String word1, String word2, int[] charOrder) {
+    private boolean isInOrder(String word1, String word2, String order) {
         int length1 = word1.length();
         int length2 = word2.length();
         int length = Math.min(length1, length2);
@@ -33,7 +29,7 @@ public class Solution {
             char c2 = word2.charAt(i);
 
             if (c1 != c2) {
-                return charOrder[c2 - 'a'] > charOrder[c1 - 'a'];
+                return order.indexOf(c2) > order.indexOf(c1);
             }
         }
         return length2 >= length1;
