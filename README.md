@@ -140,3 +140,8 @@
 - [Sum of odd numbers](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064/train/java)
 - [New Companies](https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true)
 - [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/description/)
+
+25.07
+- [Ones and Zeros](https://www.codewars.com/kata/578553c3a1b8d5c40300037c/java)
+- [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true)
+- [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/)
