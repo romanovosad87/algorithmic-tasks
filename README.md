@@ -145,3 +145,8 @@
 - [Ones and Zeros](https://www.codewars.com/kata/578553c3a1b8d5c40300037c/java)
 - [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true)
 - [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/)
+
+26.07
+- [Number of People in the Bus](https://www.codewars.com/kata/5648b12ce68d9daa6b000099/train/java)
+- [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true)
+- [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
