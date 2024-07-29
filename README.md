@@ -150,3 +150,8 @@
 - [Number of People in the Bus](https://www.codewars.com/kata/5648b12ce68d9daa6b000099/train/java)
 - [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true)
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
+
+29.07
+- [Odd or Even?](https://www.codewars.com/kata/5949481f86420f59480000e7/train/java)
+- [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true)
+- [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)
