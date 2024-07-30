@@ -158,7 +158,7 @@
 
 30.07
 - [Reverse words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4/train/java)
-- [Average Population](https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true))
+- [Average Population](https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true)
 - [2706. Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/description/)
 
 31.07
