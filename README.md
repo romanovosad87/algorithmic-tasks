@@ -155,3 +155,23 @@
 - [Odd or Even?](https://www.codewars.com/kata/5949481f86420f59480000e7/train/java)
 - [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true)
 - [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)
+
+30.07
+- [Reverse words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4/train/java)
+- [Average Population](https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true))
+- [2706. Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/description/)
+
+31.07
+- [Sum of the first nth term of Series](https://www.codewars.com/kata/555eded1ad94b00403000071)
+- [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true)
+- [2864. Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/description/)
+
+01.08
+- [The museum of incredibly dull things](https://www.codewars.com/kata/563cf89eb4747c5fb100001b)
+- [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true)
+- [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/)
+
+ 02.08
+- [Testing 1-2-3](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9)
+- [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true)
+- [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)
