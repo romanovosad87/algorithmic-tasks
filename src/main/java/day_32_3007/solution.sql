@@ -1,2 +1,2 @@
--- https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true
-select sum(POPULATION) from CITY where COUNTRYCODE = 'JPN';
+-- https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true
+select round(avg(POPULATION)) from CITY;
