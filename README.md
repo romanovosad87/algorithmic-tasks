@@ -175,3 +175,8 @@
 - [Testing 1-2-3](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9)
 - [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true)
 - [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)
+
+05.08
+- [The highest profit wins!](https://www.codewars.com/kata/559590633066759614000063/train/java)
+- [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true)
+- [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/)
