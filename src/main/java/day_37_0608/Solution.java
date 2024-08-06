@@ -1,13 +1,17 @@
 package day_37_0608;
 
-// https://www.codewars.com/kata/57f609022f4d534f05000024/train/java
+// https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/
 
 public class Solution {
-    static int stray(int[] numbers) {
-        int res = numbers[0];
-        for (int i = 1; i < numbers.length; i++) {
-            res ^= numbers[i];
+
+    public int countOdds(int low, int high) {
+        int oddsCount = 0;
+
+        if (low % 2 != 0 || high % 2 != 0) {
+            oddsCount = (high - low) /2 + 1;
+        } else {
+            oddsCount = (high - low) /2;
         }
-        return res;
+        return oddsCount;
     }
 }
