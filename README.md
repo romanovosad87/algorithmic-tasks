@@ -180,3 +180,13 @@
 - [The highest profit wins!](https://www.codewars.com/kata/559590633066759614000063/train/java)
 - [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true)
 - [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/)
+
+06.08
+- [Don't give me five!](https://www.codewars.com/kata/5813d19765d81c592200001a/train/java)
+- [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem?isFullScreen=true)
+- [1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/)
+
+07.08
+- [Find the stray number](https://www.codewars.com/kata/57f609022f4d534f05000024)
+- [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem?isFullScreen=true)
+- [136. Single Number](https://leetcode.com/problems/single-number/description/)
