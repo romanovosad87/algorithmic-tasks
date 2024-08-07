@@ -190,3 +190,8 @@
 - [Find the stray number](https://www.codewars.com/kata/57f609022f4d534f05000024)
 - [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem?isFullScreen=true)
 - [136. Single Number](https://leetcode.com/problems/single-number/description/)
+
+08.08
+- [Count the divisors of a number](https://www.codewars.com/kata/542c0f198e077084c0000c2e)
+- [Conditional Count](https://www.codewars.com/kata/5816a3ecf54413a113000074)
+- [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)
