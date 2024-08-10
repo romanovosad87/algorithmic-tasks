@@ -195,3 +195,33 @@
 - [Count the divisors of a number](https://www.codewars.com/kata/542c0f198e077084c0000c2e)
 - [Conditional Count](https://www.codewars.com/kata/5816a3ecf54413a113000074)
 - [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)
+
+09.08
+- [Money, Money, Money](https://www.codewars.com/kata/563f037412e5ada593000114)
+- [Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem?isFullScreen=true)
+- [338. Counting Bits](https://leetcode.com/problems/counting-bits/description/)
+
+12.08
+- [Breaking chocolate problem](https://www.codewars.com/kata/534ea96ebb17181947000ada)
+- [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem?isFullScreen=true)
+- [1299. Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/)
+
+13.08
+- [Count the Digit](https://www.codewars.com/kata/566fc12495810954b1000030)
+- [Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem?isFullScreen=true)
+- [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)
+
+14.08
+- [Make a function that does arithmetic!](https://www.codewars.com/kata/583f158ea20cfcbeb400000a)
+- [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem?isFullScreen=true)
+- [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
+
+15.08
+- [Sum of a sequence](https://www.codewars.com/kata/586f6741c66d18c22800010a)
+- [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem?isFullScreen=true)
+- [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
+
+16.08
+- [Round up to the next multiple of 5](https://www.codewars.com/kata/55d1d6d5955ec6365400006d)
+- [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=true)
+- [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
