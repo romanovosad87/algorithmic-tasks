@@ -1,4 +1,4 @@
-package day_40_1008;
+package day_40_0908;
 
 public class Money {
     public static void main(String[] args) {

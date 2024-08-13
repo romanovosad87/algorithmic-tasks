@@ -1,4 +1,4 @@
-package day_41_1108;
+package day_41_1208;
 
 // https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/
 

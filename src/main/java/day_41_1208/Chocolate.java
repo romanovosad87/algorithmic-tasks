@@ -1,4 +1,4 @@
-package day_41_1108;
+package day_41_1208;
 
 // https://www.codewars.com/kata/534ea96ebb17181947000ada/train/java
 
