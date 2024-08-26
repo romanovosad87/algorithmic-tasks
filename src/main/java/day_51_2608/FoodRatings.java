@@ -1,81 +1,72 @@
 package day_51_2608;
 
+// https://leetcode.com/problems/design-a-food-rating-system/description/
+
 import java.util.HashMap;
 import java.util.Map;
+import java.util.TreeSet;
 
 public class FoodRatings {
-    private Map<String, Food> foodsMap = new HashMap<>();
-    private Map<String, HighestRatedFood> cuisineFood = new HashMap<>();
+    public static void main(String[] args) {
+        String[] foods = new String[]{"emgqdbo", "jmvfxjohq", "qnvseohnoe", "yhptazyko", "ocqmvmwjq"};
+        String[] cuisines = new String[]{"snaxol", "snaxol", "snaxol", "fajbervsj", "fajbervsj"};
+        int[] ratings = new int[]{2, 6, 18, 6, 5};
+        FoodRatings foodRatings = new FoodRatings(foods, cuisines, ratings);
+        foodRatings.changeRating("qnvseohnoe", 11);
+        System.out.println(foodRatings.highestRated("fajbervsj"));
+        foodRatings.changeRating("emgqdbo",3);
+        foodRatings.changeRating("jmvfxjohq",9);
+        foodRatings.changeRating("emgqdbo",14);
+        System.out.println(foodRatings.highestRated("fajbervsj"));
+        System.out.println(foodRatings.highestRated("snaxol"));
+    }
+
+    private Map<String, Food> foodMap;
+    private Map<String, TreeSet<Food>> cuisineMap;
 
     public FoodRatings(String[] foods, String[] cuisines, int[] ratings) {
-        for (int i = 0; i < foods.length; i++) {
-           foodsMap.put(foods[i], new Food(foods[i], cuisines[i], ratings[i]));
+        foodMap = new HashMap<>();
+        cuisineMap = new HashMap<>();
 
-            HighestRatedFood highestRatedFood = cuisineFood.get(cuisines[i]);
-            if (highestRatedFood == null) {
-                cuisineFood.put(cuisines[i], new HighestRatedFood(foods[i], ratings[i]));
-            } else {
-                compareRatings(foods[i], ratings[i], highestRatedFood);
-            }
+        for (int i = 0; i < foods.length; i++) {
+            Food food = new Food(foods[i], cuisines[i], ratings[i]);
+            foodMap.put(foods[i], food);
+
+            cuisineMap.putIfAbsent(cuisines[i], new TreeSet<>());
+            cuisineMap.get(cuisines[i]).add(food);
         }
     }
 
     public void changeRating(String food, int newRating) {
-        var foodFromMap = foodsMap.get(food);
-        foodFromMap.rate = newRating;
-        var highestRatingFood = cuisineFood.get(foodFromMap.cuisines);
-        compareRatings(food, newRating, highestRatingFood);
+        Food oldFood = foodMap.get(food);
+        cuisineMap.get(oldFood.cuisine).remove(oldFood);
+
+        oldFood.rating = newRating;
+        cuisineMap.get(oldFood.cuisine).add(oldFood);
     }
 
     public String highestRated(String cuisine) {
-        return cuisineFood.get(cuisine).food;
+        return cuisineMap.get(cuisine).first().name;
     }
 
-    private void compareRatings(String food, int rating, HighestRatedFood highestRatedFood) {
-        if (highestRatedFood.rate < rating) {
-            highestRatedFood.food = food;
-            highestRatedFood.rate = rating;
-        } else if (highestRatedFood.rate == rating) {
-            if (isSmaller(highestRatedFood.food, food)) {
-                highestRatedFood.food = food;
+    static class Food implements Comparable<Food> {
+        String name;
+        String cuisine;
+        int rating;
+
+        public Food(String name, String cuisine, int rating) {
+            this.name = name;
+            this.cuisine = cuisine;
+            this.rating = rating;
+        }
+
+        @Override
+        public int compareTo(Food other) {
+            if (this.rating != other.rating) {
+                return Integer.compare(other.rating, this.rating);
+            } else {
+                return this.name.compareTo(other.name);
             }
-        }
-    }
-
-    private boolean isSmaller(String oldFoodName, String newFoodName) {
-        int i = 0;
-        int j = 0;
-        while (i < oldFoodName.length() && j < newFoodName.length()) {
-            if (newFoodName.charAt(j) > oldFoodName.charAt(i)) {
-                return false;
-            } else if (newFoodName.charAt(j) < oldFoodName.charAt(i)) {
-                return true;
-            }
-            i++;
-            j++;
-        }
-        return newFoodName.length() - j < oldFoodName.length() - i;
-    }
-
-    static class Food {
-        String food;
-        String cuisines;
-        int rate;
-
-        public Food(String food, String cuisines, int rate) {
-            this.food = food;
-            this.cuisines = cuisines;
-            this.rate = rate;
-        }
-    }
-    
-    static class HighestRatedFood {
-        String food;
-        int rate;
-
-        public HighestRatedFood(String food, int rate) {
-            this.food = food;
-            this.rate = rate;
         }
     }
 }
