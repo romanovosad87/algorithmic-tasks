@@ -225,3 +225,54 @@
 - [Round up to the next multiple of 5](https://www.codewars.com/kata/55d1d6d5955ec6365400006d)
 - [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=true)
 - [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
+
+19.08
+- [Anagram Detection](https://www.codewars.com/kata/529eef7a9194e0cbc1000255)
+- [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem?isFullScreen=true)
+- [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
+
+20.08
+- [Is Sator Square?](https://www.codewars.com/kata/5cb7baa989b1c50014a53333)
+- [Population Census](https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true)
+- [706. Design HashMap](https://leetcode.com/problems/design-hashmap/description/)
+
+21.08
+- [Small enough? - Beginner](https://www.codewars.com/kata/57cc981a58da9e302a000214)
+- [African Cities](https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true)
+- [705. Design HashSet](https://leetcode.com/problems/design-hashset/description/)
+
+22.08
+- [Two fighters, one winner.](https://www.codewars.com/kata/577bd8d4ae2807c64b00045b)
+- [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true)
+- [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/description/)
+
+23.08
+- [Simple Fun #176: Reverse Letter](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b)
+- [The Report](https://www.hackerrank.com/challenges/the-report/problem?isFullScreen=true)
+- [1396. Design Underground System](https://leetcode.com/problems/design-underground-system/description/)
+
+26.08
+- [Fix string case](https://www.codewars.com/kata/5b180e9fedaa564a7000009a)
+- [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem?isFullScreen=true)
+- [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/description/)
+
+27.08
+- [Maximum Multiple](https://www.codewars.com/kata/5aba780a6a176b029800041c)
+- [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem?isFullScreen=true)
+- [2108. Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/)
+
+28.08
+- [Factorial](https://www.codewars.com/kata/54ff0d1f355cfd20e60001fc)
+- [Challenges](https://www.hackerrank.com/challenges/challenges/problem?isFullScreen=true)
+- [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
+
+29.08
+- [Form The Minimum](https://www.codewars.com/kata/5ac6932b2f317b96980000ca)
+- [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem?isFullScreen=true)
+- [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/)
+
+30.08
+- [Alternate capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075)
+- [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem?isFullScreen=true)
+- [1984. Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description/)
+
