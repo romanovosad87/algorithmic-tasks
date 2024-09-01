@@ -276,3 +276,28 @@
 - [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem?isFullScreen=true)
 - [1984. Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description/)
 
+02.09
+- [Flatten and sort an array](https://www.codewars.com/kata/57ee99a16c8df7b02d00045f)
+- [Placements](https://www.hackerrank.com/challenges/placements/problem?isFullScreen=true)
+- [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
+
+03.09
+- [Are the numbers in order?](https://www.codewars.com/kata/56b7f2f3f18876033f000307)
+- [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem?isFullScreen=true)
+- [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+
+04.09
+- [Largest 5 digit number in a series](https://www.codewars.com/kata/51675d17e0c1bed195000001)
+- [Interviews](https://www.hackerrank.com/challenges/interviews/problem?isFullScreen=true)
+- [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/description/)
+
+05.09
+- [Leap Years](https://www.codewars.com/kata/526c7363236867513f0005ca)
+- [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem?isFullScreen=true)
+- [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
+
+06.09
+- [Remove duplicate words](https://www.codewars.com/kata/5b39e3772ae7545f650000fc)
+- [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem?isFullScreen=true)
+- [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
+
