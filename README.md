@@ -301,3 +301,28 @@
 - [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem?isFullScreen=true)
 - [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
 
+09.09
+- [Maximum Length Difference](https://www.codewars.com/kata/5663f5305102699bad000056)
+- [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem?isFullScreen=true)
+- [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)
+
+10.09
+- [Sum of angles](https://www.codewars.com/kata/5a03b3f6a1c9040084001765)
+- [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem?isFullScreen=true)
+- [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/description/)
+
+11.09
+- [Largest pair sum in array](https://www.codewars.com/kata/556196a6091a7e7f58000018)
+- [SQL Basics: Simple HAVING](https://www.codewars.com/kata/58164ddf890632ce00000220)
+- [155. Min Stack](https://leetcode.com/problems/min-stack/description/)
+
+12.09
+- [Sorted? yes? no? how?](https://www.codewars.com/kata/580a4734d6df748060000045)
+- [SQL Basics: Top 10 customers by total payments amount](https://www.codewars.com/kata/580d08b5c049aef8f900007c)
+- [143. Reorder List](https://leetcode.com/problems/reorder-list/description/)
+
+13.09
+- [Alphabet war](https://www.codewars.com/kata/59377c53e66267c8f6000027)
+- [SQL Basics: Simple JOIN and RANK](https://www.codewars.com/kata/58094559c47d323ebd000035)
+- [1669. Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/description/)
+
