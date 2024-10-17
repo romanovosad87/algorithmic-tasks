@@ -1,4 +1,4 @@
-package secondchallange.day_8_1610;
+package secondchallange.day_9_1610;
 
 // https://leetcode.com/problems/validate-stack-sequences/description/
 
