@@ -1,4 +1,4 @@
-package secondchallange.day_19_3109;
+package secondchallange.day_23_0611;
 
 // https://leetcode.com/problems/guess-number-higher-or-lower/description/
 
