@@ -1,4 +1,4 @@
-package secondchallange.day_19_0110;
+package secondchallange.day_20_0110;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
